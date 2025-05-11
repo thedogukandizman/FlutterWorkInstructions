@@ -20,3 +20,6 @@ This app was created as part of a mini-challenge inspired by Wärtsilä’s Summ
 
 
 You can run this directly in your browser on [DartPad](https://dartpad.dev/flutter) by copying the content of `main.dart`.
+![aa](https://github.com/user-attachments/assets/38a85cf1-fef8-4c7c-a766-c5ce996413a7)
+
+
